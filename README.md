@@ -53,7 +53,8 @@
     <hr>
 
     <div class="profil">
-        ![1000289032](https://github.com/user-attachments/assets/8c4c3719-07b6-4f13-a9f2-b4ebf98139da)
+    <img src="Lala.jpg">
+![1000289032](https://github.com/user-attachments/assets/2c1b3770-1ac2-499c-903e-730ab113dce4)
 
 
 
