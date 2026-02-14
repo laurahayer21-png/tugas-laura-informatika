@@ -53,7 +53,8 @@
     <hr>
 
     <div class="profil">
-        <img src=![1000289032](https://github.com/user-attachments/assets/dd604a6d-a85b-4308-9e8d-040c77c3e735)
+        ![1000289032](https://github.com/user-attachments/assets/8c4c3719-07b6-4f13-a9f2-b4ebf98139da)
+
 
 
         <div>
