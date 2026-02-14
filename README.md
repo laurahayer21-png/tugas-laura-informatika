@@ -53,7 +53,8 @@
     <hr>
 
     <div class="profil">
-        <img src="Lala.jpg">
+        <img src="Lala.jpg">![1000289032](https://github.com/user-attachments/assets/dd604a6d-a85b-4308-9e8d-040c77c3e735)
+
 
         <div>
             <p><strong>⋆.𐙚𝓝𝓪𝓶𝓪:</strong>Laura Jalianti Van Hayer</p>
